@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Simulation animation="Simulation">
+	<gridShape>square</gridShape>
+	<stroke>0</stroke>
+	<neigh>all</neigh>
+	<torus>0</torus>
+	<simType>2</simType>
+	<author>John Horton Conway</author>
+	<gridWidth>5</gridWidth>
+	<gridHeight>5</gridHeight>
+	<numStates>3</numStates>
+	<cellDist type="">0</cellDist>
+	<cellDist type="Dead">12</cellDist>
+	<cellDist type="Alive">13</cellDist>
+	<cellConfig type ="Underpopulation Threshold">2</cellConfig>
+	<cellConfig type ="Overpopulation Threshold">3</cellConfig>
+	<cellConfig type ="Reproduction Number">3</cellConfig>
+</Simulation>

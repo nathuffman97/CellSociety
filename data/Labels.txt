@@ -1,0 +1,8 @@
+Start
+Load new file
+Step
+Save
+Speed:
+Cell State Graph
+Pause
+Resume

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Simulation animation="Simulation">
+	<gridShape>square</gridShape>
+	<stroke>0</stroke>
+	<neigh>all</neigh>
+	<torus>0</torus>
+	<simType>5</simType>
+	<author>kiwibonga</author>
+	<gridWidth>50</gridWidth>
+	<gridHeight>50</gridHeight>
+	<numStates>4</numStates>
+	<gridShape>0</gridShape>
+	<cellDist type="Empty">625</cellDist>
+	<cellDist type="Red">625</cellDist>
+	<cellDist type="Blue">625</cellDist>
+	<cellDist type="Green">625</cellDist>
+	<cellConfig type="Fade Dist">1</cellConfig> 
+</Simulation>

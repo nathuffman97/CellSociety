@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Simulation animation="Simulation">
+	<gridShape>square</gridShape>
+	<stroke>0</stroke>
+	<neigh>all</neigh>
+	<torus>0</torus>
+	<simType>3</simType>
+	<author>A.K. Dewdney</author>
+	<gridWidth>20</gridWidth>
+	<gridHeight>15</gridHeight>
+	<numStates>3</numStates>
+	<cellDist type="Empty">60</cellDist>
+	<cellDist type="Minnow">150</cellDist>
+	<cellDist type="Shark">90</cellDist>
+	<cellConfig type ="Starting Energy">2</cellConfig>
+	<cellConfig type ="Energy Regained">2</cellConfig>
+	<cellConfig type ="Energy Lost">1</cellConfig>
+	<cellConfig type ="Reproduction Threshold">3</cellConfig>
+</Simulation>

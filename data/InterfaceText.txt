@@ -1,0 +1,3 @@
+PAUSED
+END GAME
+Error: XML file contains invalid parameters!\n                Press \"ESC\" to close

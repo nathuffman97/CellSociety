@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Simulation animation="Simulation">
+	<gridShape>square</gridShape>
+	<stroke>0</stroke>
+	<neigh>all</neigh>
+	<torus>0</torus>
+	<simType>4</simType>
+	<author>Thomas Schelling</author>
+	<gridWidth>5</gridWidth>
+	<gridHeight>5</gridHeight>
+	<numStates>3</numStates>
+	<cellDist type="Empty">5</cellDist>
+	<cellDist type="Red">10</cellDist>
+	<cellDist type="Blue">10</cellDist>
+	<cellConfig type="Happiness Threshold">.3</cellConfig>
+	<cellConfig type="Return Forbid">0</cellConfig> 
+</Simulation>
